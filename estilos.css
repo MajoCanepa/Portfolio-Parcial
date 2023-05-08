@@ -1,0 +1,14 @@
+body{
+background-image: url(Imagenes/fondo.avif);
+color: blueviolet;
+}
+
+.imagen{
+    width: 275px;
+    height: auto;
+}
+
+.imag{
+    width: 200px;
+    height: auto;
+}
