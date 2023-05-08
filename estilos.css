@@ -1,6 +1,11 @@
 body{
-background-image: url(Imagenes/fondo.avif);
-color: blueviolet;
+background-image: url(Imagenes/compu.avif);
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+color: antiquewhite;
+
 }
 
 .imagen{
