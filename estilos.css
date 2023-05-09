@@ -1,10 +1,10 @@
 body{
-background-image: url(Imagenes/compu.avif);
+background-image: url(Imagenes/fondo.avif);
 background-repeat: no-repeat;
 background-position: center center;
 background-attachment: fixed;
 background-size: cover;
-color: antiquewhite;
+color: blueviolet;
 
 }
 
@@ -17,3 +17,4 @@ color: antiquewhite;
     width: 200px;
     height: auto;
 }
+
